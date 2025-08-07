@@ -19,6 +19,15 @@ export default {
 		},
 		extend: {
 			colors: {
+				govblue: {
+					'50': '#f0f4ff',
+					'100': '#e0eaff',
+					'500': '#374151',
+					'600': '#1E40AF',
+					'700': '#1d4ed8',
+					'800': '#1e40af',
+					'900': '#1e3a8a'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
